@@ -9,6 +9,12 @@ Attendance system
 Payments
 
 # Algorithms
+
+Haar Cascade classifier- Used to detect human face.
+
+![Frontal face algorithm](https://user-images.githubusercontent.com/68141523/123548191-64fd3180-d781-11eb-98d5-87d65898ebad.png)
+
+
 Fisherface Recogniser Algorithm- Fisherfaces algorithm extracts principle components that separates one individual from another. So, now an individual's feature can't dominate another person's features.
  
  
